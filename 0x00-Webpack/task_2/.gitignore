@@ -7,6 +7,10 @@ node_modules/
 
 # Ignore public/bundle.js directory
 /public/bundle.js
+/public/bundle.js.LICENSE.txt
+
+# Ignore package_lock
+/package-lock.json
 
 # Ignore log files
 *.log
