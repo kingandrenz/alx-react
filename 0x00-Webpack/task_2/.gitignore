@@ -1,0 +1,13 @@
+
+/public/bundle.js
+
+
+# Ignore node_modules
+node_modules/
+
+# Ignore public/bundle.js directory
+/public/bundle.js
+
+# Ignore log files
+*.log
+
