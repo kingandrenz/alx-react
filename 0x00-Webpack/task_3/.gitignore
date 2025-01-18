@@ -1,0 +1,16 @@
+
+/public/bundle.js
+
+
+# Ignore node_modules
+node_modules/
+
+# Ignore public/
+/public/
+
+# Ignore package_lock
+/package-lock.json
+
+# Ignore log files
+*.log
+
